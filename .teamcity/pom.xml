@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <name>Buildpipelines1 Config DSL Script</name>
-  <groupId>Buildpipelines1</groupId>
-  <artifactId>Buildpipelines1_dsl</artifactId>
+  <name>Teamtest2 Config DSL Script</name>
+  <groupId>Teamtest2</groupId>
+  <artifactId>Teamtest2_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
